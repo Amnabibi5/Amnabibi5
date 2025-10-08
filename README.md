@@ -14,8 +14,8 @@ Aspiring **Data Scientist & Data Analyst** with a strong academic background in 
 
 ## 📂 Featured Projects
 - **Customer Churn Prediction** → Built a Random Forest model achieving 87% accuracy.
-- **Sales Dashboard (Power BI)** → Interactive dashboard for monthly KPIs and trend tracking. 
-- **SEO Traffic Analysis** → Analyzed website performance data to boost engagement. 
+- **E Commerce URL Generator ** → Generate and scrape the URL  of the given product. 
+- **Stock Scrapper** → Scrape the given URLs for stock maintenance and data extraction. 
 
 ---
 
