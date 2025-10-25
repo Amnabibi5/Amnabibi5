@@ -28,7 +28,7 @@ Python • SQL • Excel • Power BI • SPSS • Pandas • NumPy • Matplotl
 ## 📫 Let’s Connect!
 - **LinkedIn**: https://linkedin.com/in/amna-bibi
 - **Email**: amnab9373@gmail.com
-- **Portfolio**:
+- **Portfolio**: https://amnabibi5.github.io/
 
 ---
 
