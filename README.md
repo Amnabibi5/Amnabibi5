@@ -13,7 +13,8 @@ Aspiring **Data Scientist & Data Analyst** with a strong academic background in 
 ---
 
 ## 📂 Featured Projects
-- **Customer Churn Prediction** → Built a Random Forest model achieving 87% accuracy.
+- **Customer Churn Prediction** → Built a Random Forest model achieving 87% accuracy.[![View on GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Amnabibi5/Churn-Prediction)
+
 - **E Commerce URL Generator ** → Generate and scrape the URL  of the given product. 
 - **Stock Scrapper** → Scrape the given URLs for stock maintenance and data extraction. 
 
